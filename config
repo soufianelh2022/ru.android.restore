@@ -15,7 +15,6 @@
   "interstitialEveryDetails": 1,
   "nativeEveryItems": 6,
   "loadTimeoutSeconds": 20,
-  "cacheTtlSeconds": 3600
   "cacheTtlSeconds": 3600,
   "maintenance": {
     "enabled": false,
