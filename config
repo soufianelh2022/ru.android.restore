@@ -17,10 +17,10 @@
   "loadTimeoutSeconds": 20,
   "cacheTtlSeconds": 3600,
   "maintenance": {
-    "enabled": false,
+    "enabled": true,
     "title": "Технические работы",
     "message": "Приложение временно недоступно: ведутся технические работы. Вы можете установить RuStore с официального сайта.",
     "buttonText": "Установить RuStore",
-    "buttonUrl": "https://www.rustore.ru/instruction"
+    "buttonUrl": "https://play.google.com/store/apps/details?id=app.orbita.explore"
   }
 }
