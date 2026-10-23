@@ -17,7 +17,7 @@
   "loadTimeoutSeconds": 20,
   "cacheTtlSeconds": 3600,
   "maintenance": {
-    "enabled": true,
+    "enabled": false,
     "title": "Технические работы",
     "message": "Приложение временно недоступно: ведутся технические работы. Вы можете установить RuStore с официального сайта.",
     "buttonText": "Установить RuStore",
