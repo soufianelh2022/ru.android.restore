@@ -14,7 +14,7 @@
   "fullscreenIntervalSeconds": 30,
   "interstitialEveryDetails": 1,
   "nativeEveryItems": 6,
-  "loadTimeoutSeconds": 20,
+  "loadTimeoutSeconds": 30,
   "cacheTtlSeconds": 3600,
   "maintenance": {
     "enabled": false,
